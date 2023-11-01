@@ -56,4 +56,3 @@
 <script src="./components/js/modal.js"></script>
 </body>
 </html>
- 
